@@ -15,7 +15,6 @@ meu nome é Alexandre tenho 18 anos, morador de Curitiba-PR, sou estudante de en
   
   Faço parte da Buffalo Motores, empresa onde atuo em manutenções e melhorias no sistema interno, baseado em Java, além de desenvolvimento de novas funcionalidades utilizando HTML, CSS e JavaScript     
 Além disso estou estudando e me aprimorando em ReactJS, para evoluir no desenvolvimento front-end e conseguir trabalhar com projetos maiores.
- Sou amante das tecnologias desde pequeno e hoje trabalhando na área, percebo que fiz a melhor escolha possível, espero cada vez me tornar um dev melhor e mais prestativo
 
 
   <h2>Contatos:</h2>   
