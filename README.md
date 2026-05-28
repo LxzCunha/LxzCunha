@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu GitHub!
 
-meu nome é Alexandre tenho 18 anos, morador de Curitiba-PR, sou estudante de engenharia de software, formado em Técnico em Análise e Desenvolvimento de Sistemas e atuo na área a mais de 6 meses
+meu nome é Alexandre tenho 19 anos, morador de Curitiba-PR, sou estudante de engenharia de software, formado em Técnico em Análise e Desenvolvimento de Sistemas e atuo na área a mais de 1 ano
 
 <h1>Tecnologias e Ferramentas:<h1/>
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
